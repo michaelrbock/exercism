@@ -105,3 +105,6 @@ venv.bak/
 
 # exercism
 **/*.solution.json
+
+# custom
+*.DS_Store
